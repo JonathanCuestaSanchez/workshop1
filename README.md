@@ -1,4 +1,4 @@
 # workshop1
 ---
-Jonathan Cuesta 
+Jonathan Cuesta, 
 Alejandro Rodriguez del Toro
