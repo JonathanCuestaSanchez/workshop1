@@ -49,5 +49,4 @@ Una plataforma de gestión para el acompañamiento académico a estudiantes, con
 
 ![alt text][1]
 
-
-[1] (https://github.com/JonathanCuestaSanchez/workshop1/blob/master/Laboratorio1/src/images/img1.png)
+[1]:https://github.com/JonathanCuestaSanchez/workshop1/blob/master/Laboratorio1/src/images/img1.png
