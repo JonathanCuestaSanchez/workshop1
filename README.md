@@ -37,8 +37,28 @@ Programamos nuestrasolucion para el problema en java.
 Usamos el comando "git add . "
 Answer: What is the purpose of this command? Respuesta// el proposito del comando "git add ." es el de agradir todos los paths del repositorio ya sean nuevos o modificaciones de estos mismos. 
 Usamos el comando "git commit -m "Message" "
-Answer : Why we used it? Respuesta// Lousamosporque es un comando que nos permite guardar los cambios en el repositorio agragandole un mensaje de confirmacion
+Answer : Why we used it? Respuesta// Lo usamos porque es un comando que nos permite guardar los cambios en el repositorio agragandole un mensaje de confirmacion
 
+Usamos el comando "git push origen master"
+Answer: What is the purpose of the this command? Respuesta// lo usamos para que se suban los ocumentos al repositoriogiten la ubicaion master del mismo 
+ 
+usamos el coamndo "git clone"
+Answer: What is the purpose of this command?// respuesta el propositoes eldepordertenerlacopia delrepositrioque yaesta en git en una maquinateneiendo el link del repositorio.
+
+![alt text][5]
+
+[5]:https://github.com/JonathanCuestaSanchez/workshop1/blob/master/Laboratorio1/src/images/lab106.png
+
+*_commit report:_*
+ 
+![alt text][6]
+
+[6]:https://github.com/JonathanCuestaSanchez/workshop1/blob/master/Laboratorio1/src/images/lab108.png
+
+*_Using pull command_*
+
+Usamos el comando git pull origin master en otra computadora
+Answer: What that command does? // respuestaparapoder tener la actualizacion de loscambios relizadosen el masterdelrepositorio
 
 *_Create maven proyect:_*
 -------
